@@ -45,15 +45,15 @@ I'm a 3rd-year undergrade student at SRM University, Chennai pursuing B.Tech in 
 ## 💬 Let's Connect
     
 <a href="https://www.linkedin.com/in/suryanshoo-kaushal-519498176/">
-    <img align="left" alt="Suryanshoo Kaushal | Linkedin" width="24px" src="Assets/Icons/Linkedin.svg" />
+    <img align="left" alt="Suryanshoo Kaushal | Linkedin" width="24px" src="https://github.com/suryanshookaushal/suryanshookaushal/blob/main/assets/icon/Linkedin.svg" />
   </a>
   
   
   <a href="https://medium.com/@suryanshoospamid/s">
-    <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="Assets/Icons/medium.svg" />
+    <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/suryanshookaushal/suryanshookaushal/blob/main/assets/icon/medium.svg" />
   </a>
   
   <a href="https://www.instagram.com/suryanshoo_07/">
-    <img align="left" alt="Suryanshoo Kaushal | Instagram" width="24px" src="ssAssets/Icons/Instagram.svg" />
+    <img align="left" alt="Suryanshoo Kaushal | Instagram" width="24px" src="https://github.com/suryanshookaushal/suryanshookaushal/blob/main/assets/icon/Instagram.svg" />
   </a>
 
