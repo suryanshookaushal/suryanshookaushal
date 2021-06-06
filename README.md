@@ -9,7 +9,7 @@
 I'm a 3rd-year undergrade student at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Cloud Computing. I'm a **Competitive Coder**, **Web Developer**, and **Machine learning enthusiast**.
 
 - 🔭 I develop full stack applications using Node.js and React.
-- 🌱 I’m currently learning MEAN Stack.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me: suryanshoo.kaushal@gmail.com
 - 😄 Pronouns: He/Him.
 - :trophy: 2021 Goals: Contribute and publish more open source projects.
